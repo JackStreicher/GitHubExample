@@ -20,7 +20,7 @@ namespace WitcherTest
             int inputGold;
 
             //Für die finale Ausgabe
-            int lastInput = 0;
+            int lastInput = 90;
 
             //Anzahl der Versuche
             int tries = 3;
