@@ -100,6 +100,12 @@ namespace WitcherTest
                             //Debug
                             //Console.WriteLine(randMax);
                             Console.WriteLine("That's about right");
+                            Console.WriteLine("That's about right");
+                            Console.WriteLine("That's about right");
+                            Console.WriteLine("That's about right");
+                            Console.WriteLine("That's about right");
+                            Console.WriteLine("That's about right");
+                            Console.WriteLine("That's about right");
                         }
 
                         //Wenn mehr als 33% des Maximalwertes UND kleiner als 50% des Maximalwertes UND größer als der Mindeswert
