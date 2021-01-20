@@ -73,7 +73,7 @@ namespace WitcherTest
                     else
                     {
 
-                        Console.WriteLine(inputGold + " Gold it is then?");
+                        Console.WriteLine(inputGold + " Gold it is then??");
                         tries--;
 
                         //Ab 80% des Maximalwertes
@@ -81,7 +81,17 @@ namespace WitcherTest
                         {
                             //Debug
                             //Console.WriteLine(randMax);
-                            Console.WriteLine("You are a stubborn haggler, eh?");
+                            Console.WriteLine("You are a stubborn haggler, eh? Well...");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
                         }
 
                         //Ab 33% des Maximalwertes UND kleiner gleich als 80% des Maximalwertes
