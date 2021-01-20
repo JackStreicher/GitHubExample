@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\WitcherTest\WitcherTest\bin\Debug\WitcherTest.exe.config
+C:\Users\Admin\source\repos\WitcherTest\WitcherTest\bin\Debug\WitcherTest.exe
+C:\Users\Admin\source\repos\WitcherTest\WitcherTest\bin\Debug\WitcherTest.pdb
+C:\Users\Admin\source\repos\WitcherTest\WitcherTest\obj\Debug\WitcherTest.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WitcherTest\WitcherTest\obj\Debug\WitcherTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WitcherTest\WitcherTest\obj\Debug\WitcherTest.exe
+C:\Users\Admin\source\repos\WitcherTest\WitcherTest\obj\Debug\WitcherTest.pdb
