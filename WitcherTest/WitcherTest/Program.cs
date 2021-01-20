@@ -92,6 +92,9 @@ namespace WitcherTest
                             Console.WriteLine("This is not fair.");
                             Console.WriteLine("This is not fair.");
                             Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
                         }
 
                         //Ab 33% des Maximalwertes UND kleiner gleich als 80% des Maximalwertes
