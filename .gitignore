@@ -2,3 +2,5 @@
 *.ide-wal
 *.ide-shm
 WitcherTest/.vs/WitcherTest/v15/Server/sqlite3/storage.ide-wal
+WitcherTest/.vs/WitcherTest/v15/Server/sqlite3/storage.ide-shm
+WitcherTest/.vs/WitcherTest/v15/Server/sqlite3/storage.ide-wal
