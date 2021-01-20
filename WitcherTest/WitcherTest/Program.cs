@@ -82,6 +82,7 @@ namespace WitcherTest
                             //Debug
                             //Console.WriteLine(randMax);
                             Console.WriteLine("You are a stubborn haggler, eh? Well...");
+                            Console.WriteLine("This is not fair.");
                         }
 
                         //Ab 33% des Maximalwertes UND kleiner gleich als 80% des Maximalwertes
