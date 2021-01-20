@@ -73,7 +73,7 @@ namespace WitcherTest
                     else
                     {
 
-                        Console.WriteLine(inputGold + " Gold it is then?");
+                        Console.WriteLine(inputGold + " Gold it is then??");
                         tries--;
 
                         //Ab 80% des Maximalwertes
