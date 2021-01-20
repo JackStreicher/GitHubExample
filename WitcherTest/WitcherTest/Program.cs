@@ -20,7 +20,7 @@ namespace WitcherTest
             int inputGold;
 
             //Für die finale Ausgabe
-            int lastInput = 90;
+            int lastInput = 0;
 
             //Anzahl der Versuche
             int tries = 3;
@@ -82,12 +82,18 @@ namespace WitcherTest
                             //Debug
                             //Console.WriteLine(randMax);
                             Console.WriteLine("You are a stubborn haggler, eh? Well...");
+                            Console.WriteLine("This is not fair");
                             Console.WriteLine("This is not fair.");
                             Console.WriteLine("This is not fair.");
                             Console.WriteLine("This is not fair.");
                             Console.WriteLine("This is not fair.");
                             Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair");
                             Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("This is not fair.");
+                            Console.WriteLine("Einein11");
                             Console.WriteLine("This is not fair.");
                             Console.WriteLine("This is not fair.");
                             Console.WriteLine("This is not fair.");
